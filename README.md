@@ -7,7 +7,7 @@
 ## 專案目錄結構
 
 ```text
-GAI_10/
+Gen-AI-HW10/
 ├── README.md                 # 本專案說明文件
 ├── AGENTS.md                 # 知識庫與簡報生產的操作規範（Schema）
 ├── raw/                      # 【唯讀層】原始論文 PDF 與圖表素材
